@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1728923269 source:c:\users\bruno\onedrive\documentos\bruno\1º período\prog\projeto final 2\projeto final 2\funçao3.c
+	"estruturas.h"
+	<stdio.h>
+
+1728923711 c:\users\bruno\onedrive\documentos\bruno\1º período\prog\projeto final 2\projeto final 2\estruturas.h
+	<stdio.h>
+	<string.h>
+
+1728924899 source:c:\users\bruno\onedrive\documentos\bruno\1º período\prog\projeto final 2\projeto final 2\funções.c
+	"estrutura.h"
+	<stdio.h>
+	<string.h>
+
+1728923278 source:c:\users\bruno\onedrive\documentos\bruno\1º período\prog\projeto final 2\projeto final 2\função2.c
+	"estruturas.h"
+	<stdio.h>
+
+1728924387 source:c:\users\bruno\onedrive\documentos\bruno\1º período\prog\projeto final 2\projeto final 2\main.c
+	"estrutura.h"
+	<stdio.h>
+
+1728924899 source:c:\users\bruno\onedrive\documentos\bruno\1º período\prog\projeto final 2\projeto final 2\carregamento.c
+	"estrutura.h"
+	<stdio.h>
+
+1728924899 c:\users\bruno\onedrive\documentos\bruno\1º período\prog\projeto final 2\projeto final 2\estrutura.h
+
+1728924899 source:c:\users\bruno\onedrive\documentos\bruno\1º período\prog\projeto final 2\projeto final 2\salvamento.c
+	"estrutura.h"
+	<stdio.h>
+
