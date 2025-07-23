@@ -13,9 +13,11 @@ The backend was developed in **C**
 
 - [ ] **A frontend application** for better visual analysis of this program 
 
+```py
 - # 📓 Authors Info
 
 # Antonio Monteiro, antoniomnn06@gmail.com
 # Bruno Marques, brunorodriguescvo@gmail.com
 # Emanuel Messias, emanuelmmb@gmail.com
 # Fábio Soares
+```
