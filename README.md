@@ -1,4 +1,4 @@
-# 🍕 A Pizzaria Integrate Sistem 
+# 🍕 Pizzaria Integrate Sistem 
 
 ## Project info
 
